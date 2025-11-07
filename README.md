@@ -9,3 +9,6 @@ The final dataset download includes:
 This dataset can be downloaded at XXXXXX
 
 Relevant code will be uploaded to this repository soon. In the meantime, email Axel at adb333 [at] cornell.edu for code or for any questions about the paper.
+
+*Note*: One map has been included in this dataset, but should be excluded: 32000002642652_00000033.jpg
+This map contains a political cartoon with a map in it, one of the edge cases we chose to exclude.
