@@ -6,7 +6,7 @@ The final dataset download includes:
 - csv file of map filenames
 - csv file of MARC record data for all novels and for map-novels
 - finetuned EfficientNet models (b0, b7, and V2_L) and classification outputs for each model
-This dataset can be downloaded [here](https://doi.org/10.7298/3zd0-ks10)
+This dataset can be downloaded at [https://doi.org/10.7298/3zd0-ks10](https://doi.org/10.7298/3zd0-ks10)
 
 Relevant code will be uploaded to this repository soon. In the meantime, email Axel at adb333 [at] cornell.edu for code or for any questions about the paper.
 
