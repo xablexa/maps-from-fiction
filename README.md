@@ -2,12 +2,13 @@
 ## Data Repository for Castles, Battlefields, and Continents: A Dataset of Maps from Literature
 
 The final dataset download includes:
-- jpg files of 2622 identified maps
+- jpg files for 2622 identified maps
 - csv file of map filenames
 - csv file of MARC record data for all novels and for map-novels
 - finetuned EfficientNet models (b0, b7, and V2_L) and classification outputs for each model
 - results from the CLIP model
 - the sample of non-map-novels used for spatial language comparison
+
 This dataset can be downloaded at [https://doi.org/10.7298/3zd0-ks10](https://doi.org/10.7298/3zd0-ks10)
 
 Relevant code will be uploaded to this repository soon. In the meantime, email Axel at adb333 [at] cornell.edu for code or for any questions about the paper.
