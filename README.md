@@ -9,7 +9,7 @@ The final dataset download includes:
 - results from the CLIP model
 - the sample of non-map-novels used for spatial language comparison
 
-This dataset can be downloaded at [https://doi.org/10.7298/3zd0-ks10](https://doi.org/10.7298/3zd0-ks10)
+This dataset can be downloaded [here]([https://doi.org/10.7298/3zd0-ks10](https://ecommons.cornell.edu/items/6d470f13-bac5-4b0e-94f2-4eac93d677cb))
 
 Relevant code will be uploaded to this repository soon. In the meantime, email Axel at adb333 [at] cornell.edu for code or for any questions about the paper.
 
