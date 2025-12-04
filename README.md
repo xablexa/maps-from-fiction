@@ -17,6 +17,7 @@ Relevant code will be uploaded to this repository soon. In the meantime, email A
 These maps contain cartoons with a map in them, one of the edge cases we chose to exclude.
 
 Please cite this paper if you use any portion of the dataset:
+`
 @article{10.63744@oYbvYsUA743D,
   title = {Castles, Battlefields, and Continents: A Dataset of Maps from Literature},
   author = {Axel Bax and David Mimno and Matthew Wilkens},
@@ -27,3 +28,14 @@ Please cite this paper if you use any portion of the dataset:
   editor = {Taylor Arnold, Margherita Fantoli, and Ruben Ros},
   doi = {10.63744/oYbvYsUA743D}
 }
+`
+
+Here are a few interesting maps from the dataset:
+
+![map from The Woman in the Alcove](images/colonel_jacques.jpg "*The Woman in the Alcove* by Anna Katharine Green")
+
+
+![map from Colonel Jack](images/woman_in_the_alcove.jpg "*Colonel Jack* by Daniel Defoe")
+
+
+![map from Treasure Island](images/treasure_island.jpg "*Treasure Island* by Robert Louis Stevenson")
