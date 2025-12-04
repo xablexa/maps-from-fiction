@@ -32,10 +32,13 @@ Please cite this paper if you use any portion of the dataset:
 
 Here are a few interesting maps from the dataset:
 *The Woman in the Alcove* by Anna Katharine Green
+
 <img src="images/woman_in_the_alcove.jpg" alt="drawing" width="200"/>
 
 *Colonel Jack* by Daniel Defoe
+
 <img src="images/colonel_jacques.jpg" alt="drawing" width="200"/>
 
 *Treasure Island* by Robert Louis Stevenson
+
 <img src="images/treasure_island.jpg" alt="drawing" width="200"/>
