@@ -1,6 +1,8 @@
 # maps-from-fiction
 ## Data Repository for Castles, Battlefields, and Continents: A Dataset of Maps from Literature
 
+### Repository Information
+
 The final dataset download includes:
 - jpg files for 2622 identified maps
 - csv file of map filenames
@@ -9,9 +11,7 @@ The final dataset download includes:
 - results from the CLIP model
 - the sample of non-map-novels used for spatial language comparison
 
-This dataset can be downloaded [here]([https://doi.org/10.7298/3zd0-ks10](https://ecommons.cornell.edu/items/6d470f13-bac5-4b0e-94f2-4eac93d677cb))
-
-Relevant code will be uploaded to this repository soon. In the meantime, email Axel at adb333 [at] cornell.edu for code or for any questions about the paper.
+This dataset can be downloaded [here](https://ecommons.cornell.edu/items/6d470f13-bac5-4b0e-94f2-4eac93d677cb) Please email Axel at adb333 [at] cornell.edu for any questions about the paper, data, or code.
 
 Please cite this paper if you use any portion of the dataset:
 ```bibtex
@@ -27,11 +27,14 @@ Please cite this paper if you use any portion of the dataset:
 }
 ```
 
-We also include a tutorial for you to use the same workflow with your own dataset of images. You can find it unter `tutorials`.
-
 *Note*: Two maps have been included in this dataset, but should be excluded: 32000002642652_00000033.jpg and 39015030849908_00000219.jpg
 These maps contain cartoons with a map in them, one of the edge cases we chose to exclude.
 
+### Tutorial
+
+We also include a tutorial for you to apply a similar workflow to your own dataset of images in need of binary classification. You can find it under `tutorials`.
+
+### Interesting Maps
 
 Here are a few interesting maps from the dataset:
 
