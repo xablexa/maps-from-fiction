@@ -32,7 +32,7 @@ These maps contain cartoons with a map in them, one of the edge cases we chose t
 
 ### Tutorial
 
-We also include a tutorial for you to apply a similar workflow to your own dataset of images in need of binary classification. You can find it under `tutorials`.
+We also include a tutorial for you to apply a similar workflow to your own dataset of images in need of binary classification. You can find it under [tutorials](tutorials/tutorial.md).
 
 ### Interesting Maps
 
